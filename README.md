@@ -12,5 +12,4 @@ Languages: HTML, CSS, JavaScript learning
   
 📂 Projects  
 Here are some of my notable projects:  
-  
-Scandinavian https://github.com/rahimibadov/Scandinavian : Scandinavian countries
+
