@@ -11,5 +11,6 @@
 Languages: HTML, CSS, JavaScript learning  
   
 📂 Projects  
-Here are some of my notable projects:  
+Here are some of my notable projects: 
+Xiaomi project: https://github.com/AV-Vaqif/Xiaomi-web-site
 
