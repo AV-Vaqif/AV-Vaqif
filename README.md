@@ -8,7 +8,7 @@
 
   
 🛠️ Technologies & Tools  
-Languages: HTML, CSS, JavaScript learning  
+Languages: React, React Native, JavaScript, Anguler learning  
   
 📂 Projects  
 Here are some of my notable projects: 
